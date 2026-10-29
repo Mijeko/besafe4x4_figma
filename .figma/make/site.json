@@ -1,0 +1,10 @@
+{
+  "description": "Provides a customizable website header design featuring city selection, user login, and logo placement, optimized for off-road adventure sites.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
